@@ -35,10 +35,6 @@ Here is a screenshot of the game in action:
 ![image](https://github.com/user-attachments/assets/e86cf470-050e-408b-85dd-8a6590f3cc2a)
 ![image](https://github.com/user-attachments/assets/8119deb7-c628-4d34-87ff-093c6d7720e3)
 
-
-
-*Note: Replace the `screenshot.png` with your actual screenshot file name.*
-
 ## Disclaimer
 This code is free to use, modify, and distribute. Feel free to replicate, adjust, or expand upon it as you see fit. However, please make sure to give proper credit if you distribute or share your modified versions of this project.
 
